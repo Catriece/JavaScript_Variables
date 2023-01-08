@@ -6,11 +6,12 @@ console.log(
 // Exercise 1
 
 const firstName = "Catriece";
-let lastName = "Gilbert";
-var age = 27;
+let lastName 
+var age 
 
 // Exercise 2
 
+firstName = "Catriece";
 lastName = "Gilbert";
 age = 27;
 
